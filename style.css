@@ -68,6 +68,16 @@
     color: #fff;
   }
   
+  .mp {
+    text-align: center; /* Centra el contenido horizontalmente */
+    margin-top: 20px; /* Ajusta el margen superior según sea necesario */
+  }
+  
+  .mp img {
+    max-width: 100%; /* Asegura que la imagen no se desborde del contenedor */
+    margin:80px /* Añade un margen inferior para separar la imagen del footer */
+  }
+
   form label {
     display: inline-block;
     margin-bottom: 0.5rem;
